@@ -1,0 +1,35 @@
+{
+   "process_information":[
+     
+      {
+         "process_id":1,
+         "arrival_time":2,
+         "burst_time":10,
+         "priority":3
+      },
+      {
+         "process_id":3,
+         "arrival_time":4,
+         "burst_time":2,
+         "priority":4
+      },
+      {
+         "process_id":5,
+         "arrival_time":5,
+         "burst_time":2,
+         "priority":4
+      },
+      {
+         "process_id":4,
+         "arrival_time":3,
+         "burst_time":1,
+         "priority":5
+      },
+      {
+         "process_id":2,
+         "arrival_time":1,
+         "burst_time":1,
+         "priority":1
+      }
+   ]
+}

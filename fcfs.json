@@ -1,0 +1,21 @@
+{
+   "process_information":[
+     
+      {
+         "process_id":1,
+         "arrival_time":0,
+         "burst_time":24
+      },
+      {
+         "process_id":2,
+         "arrival_time":1,
+         "burst_time":3
+
+      },
+      {
+         "process_id":3,
+         "arrival_time":2,
+         "burst_time":3
+      }
+   ]
+}
